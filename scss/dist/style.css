@@ -1,0 +1,28 @@
+body {
+  background-color: #860e0e;
+  color: green;
+}
+
+h1, h2, h3 {
+  color: #e2e2c9;
+  text-align: center;
+}
+
+div h5 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #11a6e7;
+  text-align: center;
+}
+div p {
+  background-color: yellowgreen;
+  color: white;
+  text-align: center;
+  border: 5px solid gray;
+  padding: 10px;
+}
+div p span {
+  font-weight: 700;
+  font-size: 30px;
+  color: tomato;
+}

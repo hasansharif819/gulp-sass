@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(134, 14, 14);
+    color: green;
+}
+
+h1, h2, h3{
+    color: rgb(226, 226, 201);
+    text-align: center;
+}
+
+div{
+    h5{
+        font-size: 40px;
+        font-weight: 700;
+        color: rgb(17, 166, 231);
+        text-align: center;
+    }
+    p{
+        background-color: yellowgreen;
+        color: white;
+        text-align: center;
+        border: 5px solid gray;
+        padding: 10px;
+        span{
+            font-weight: 700;
+            font-size: 30px;
+            color: tomato;
+        }
+    }
+}
